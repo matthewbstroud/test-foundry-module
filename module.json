@@ -13,7 +13,8 @@
     "version": "1.0.0",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "9.238",
-    "scripts": [
+    "esmodules": [
         "scripts/helloWorld.js"
-      ]
+      ],
+    "packs": []
   }
